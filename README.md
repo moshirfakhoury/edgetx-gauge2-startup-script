@@ -5,6 +5,6 @@ This script includes the basic structure for coding EdgeTX widgets.
 This file can be used in both Part 1 and Part 2 of the tutorial series.
 
 YouTube Series:
-EdgeTX Telemetry Widget Lua Script Tutorial #9 – Gauges & Speedometers
+**EdgeTX Telemetry Widget Lua Script Tutorial #9 – Gauges & Speedometers**
 
 <img width="477" height="271" alt="image" src="https://github.com/user-attachments/assets/faf63f57-f970-4aee-a891-b4eb2c1bd1ef" />
